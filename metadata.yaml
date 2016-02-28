@@ -1,0 +1,30 @@
+_repo: Seven-Maids-of-Far-Cathay-Being-English-Notes-From-a-Chinese-Class-Book_6345
+creator:
+  authors:
+  - agent_name: Mandall, Abertine D.
+    gutenberg_agent_id: '40769'
+    url: http://www.gutenberg.org/2009/agents/40769
+  - agent_name: Ledyard, Mary Forman
+    alias: Bing, Ding
+    birthdate: 1867
+    gutenberg_agent_id: '2009'
+    url: http://www.gutenberg.org/2009/agents/2009
+description: The English notes which go to make up this Chinese class book are the
+  result of a game which the president of the Woman's Anglo-Chinese College of Neuchang,
+  China, induced the seven Chinese girls of the graduating class to play during the
+  last six months of their college course. The notes were read aloud in class, taken
+  down by a stenographer, and afterwards arranged alphabetically by the biographer
+  assisted by the president of the college.
+gutenberg_issued: '2004-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6345'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Chinese in literature'
+title: 'Seven Maids of Far Cathay: Being English Notes From a Chinese Class Book'
+url: http://www.gutenberg.org/ebooks/6345
