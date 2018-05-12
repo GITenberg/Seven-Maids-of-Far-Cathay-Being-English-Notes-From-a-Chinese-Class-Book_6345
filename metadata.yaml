@@ -1,4 +1,8 @@
 _repo: Seven-Maids-of-Far-Cathay-Being-English-Notes-From-a-Chinese-Class-Book_6345
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   authors:
   - agent_name: Mandall, Abertine D.
@@ -15,6 +19,8 @@ description: The English notes which go to make up this Chinese class book are t
   last six months of their college course. The notes were read aloud in class, taken
   down by a stenographer, and afterwards arranged alphabetically by the biographer
   assisted by the president of the college.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6345#Seven-Maids-of-Far-Cathay-Being-English-Notes-From-a-Chinese-Class-Book
 gutenberg_issued: '2004-08-01'
 gutenberg_type: Text
 identifiers:
